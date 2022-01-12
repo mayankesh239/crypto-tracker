@@ -1,0 +1,23 @@
+.home{
+    background-image: url("../../images/home.png");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vmin;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.home > p{
+    color: rgb(255, 255, 255);
+    font-size: 2.2vmax;
+}
+
+.home > div{
+    color: white;
+    font-size: 1.8vmax;
+    margin-top: 2vmax;
+}
