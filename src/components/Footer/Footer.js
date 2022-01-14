@@ -2,7 +2,7 @@ import SimpleReactFooter from "simple-react-footer";
 // import "./footer.scss"
 // for documentation of footer refer https://www.npmjs.com/package/simple-react-footer
 
-const description = "According to wikipedia, the cat (Felis catus) is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is often referred to as the domestic cat to distinguish it from the wild members of the family. A cat can either be a house cat, a farm cat or a feral cat; the latter ranges freely and avoids human contact.";
+const description = "If you've been following the appreciation of virtual currencies, you've probably heard an awful lot about bitcoin -- and with good reason. It was the first tradable cryptocurrency that was brought to market, and it currently makes up 54% of the aggregate $589 billion market cap of all cryptocurrencies.  However, it's far from alone. There are more than 1,300 other virtual currencies that investors can buy, of which over two dozen have a market cap that's in excess of $1 billion.";
 const title = "Contact Us";
 const columns = [
     {
